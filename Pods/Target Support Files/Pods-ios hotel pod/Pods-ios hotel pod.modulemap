@@ -1,0 +1,6 @@
+framework module Pods_ios_hotel_pod {
+  umbrella header "Pods-ios hotel pod-umbrella.h"
+
+  export *
+  module * { export * }
+}

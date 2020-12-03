@@ -1,0 +1,6 @@
+framework module Pods_ios_hotel_pod_ios_hotel_podUITests {
+  umbrella header "Pods-ios hotel pod-ios hotel podUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
